@@ -1,5 +1,5 @@
 [inditex.html](https://github.com/user-attachments/files/29433299/inditex.html)
-# loveesite<!DOCTYPE html>
+# amet<!DOCTYPE html>
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
